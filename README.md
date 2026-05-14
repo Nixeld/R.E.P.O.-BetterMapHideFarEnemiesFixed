@@ -10,7 +10,7 @@ Fixed explore all rooms not working. Original mod from [BetterMapHideFarEnemies]
 - Explore All Rooms (Disabled on Default)
 - Explore Valuables (Disabled on Default)
 
-![image](https://imgur.com/a/TnJ8U9E)
+![image](https://i.imgur.com/2zpJ8vS.png)
  
 ## Compatibility
 - Single-player: ✅
